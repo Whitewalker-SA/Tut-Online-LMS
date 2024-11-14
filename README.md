@@ -67,7 +67,7 @@ Follow the same pattern to install initial data for other applications.
 <br>
 
 # Contact me:
-- [Linkedin](linkedin.com/in/mpho-louis)
-- [Twitter](https://twitter.com/Whitewalker_SA)
-- [Github](https://github.com/Whitewalker-SA)
+- [Linkedin](https://linkedin.com/in/mpho-louis)
+- [Twitter](https://twitter.com/barayit)
+- [Github](https://github.com/whitewalker_sa)
 
